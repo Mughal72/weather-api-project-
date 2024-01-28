@@ -51,4 +51,4 @@
       }
     });
   
-  weather.fetchWeather("Denver");
+  weather.fetchWeather("Karachi");
